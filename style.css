@@ -50,9 +50,11 @@ button{
 }
 .table tr{
     font-family: 'Rochester', cursive;
+    font-size: 25px;
 }
 .caption{
     font-family: 'Great Vibes' cursive;
+    font-size: 25px;
 }
 .table td:hover{
     color: black;
