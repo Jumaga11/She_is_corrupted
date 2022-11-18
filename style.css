@@ -36,3 +36,25 @@ button{
     background-color: black;
     color: white;
 }
+.table{
+    color: white;
+    font-family: 'Rochester', cursive;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th:hover{
+    color: white;
+    background-color: black;
+}
+.table tr{
+    font-family: 'Rochester', cursive;
+}
+.caption{
+    font-family: 'Great Vibes' cursive;
+}
+.table td:hover{
+    color: black;
+    background-color: white;
+}
